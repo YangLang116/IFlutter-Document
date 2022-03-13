@@ -1,6 +1,6 @@
 * [插件说明](README.md)
 
-* 1、资源文件管理
+* [1、资源文件管理](content/chapter-1/README.md)
     * [注册资源](content/chapter-1/part-1.md)
     * [注册资源(目录)](content/chapter-1/part-2.md)
     * [注册字体](content/chapter-1/part-3.md)
@@ -11,7 +11,7 @@
 
 * [2、依赖树生成](content/chapter-2/part-1.md)
 
-* 3、Dart代码生成
+* [3、Dart代码生成](content/chapter-3/README.md)
     * [Json 转 Dart Entity](content/chapter-3/part-1.md)
     * [fromJson、toJson](content/chapter-3/part-2.md)
     * [Live Template](content/chapter-3/part-3.md)
