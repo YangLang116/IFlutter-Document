@@ -36,7 +36,8 @@ iFlutter is an IDEA Plugin for Developer of Flutter
 - 修复重复文件弹窗无法滚动问题
 
 ## QQ群
-![iFlutter](https://iflutter.toolu.cn/configs/qq.jpg)
+
+ <img src="https://iflutter.toolu.cn/configs/qq.jpg" width="150"  alt="QQ"/>
 
 ## 其他
 建议直接使用 [Intellij IDEA](https://www.jetbrains.com/idea/) 代替 `AndroidStudio` 开发Flutter项目：  
