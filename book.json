@@ -29,9 +29,15 @@
         "anchors",
         "donate",
         "sharing-plus",
-        "anchor-navigation-ex"
+        "anchor-navigation-ex",
+	"valine"
     ],
     "pluginsConfig": {
+	"valine": {
+            "appId": "7cC7Ya4UwLEF1M8nsu5Ts9MG-gzGzoHsz",
+            "appKey": "XxJlpLTOv4C7Vepup4bpMW81",
+	    "avatar": "retro"
+        },
         "donate": {
             "alipay": "",
             "title": "",
