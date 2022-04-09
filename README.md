@@ -4,7 +4,7 @@ iFlutter is an IDEA Plugin for Developer of Flutter
 
 ## iFlutter是一款辅助Flutter开发的 IDEA 插件
 
-![platforms](https://img.shields.io/badge/platforms-macos%20%7C%20windows%20%7C%20linux-blue) ![tools](https://img.shields.io/badge/idea-intellij_IDEA%20%7C%20AndroidStudio-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue) ![version](https://img.shields.io/badge/version-v1.3.3-blue)
+![platforms](https://img.shields.io/badge/platforms-macos%20%7C%20windows%20%7C%20linux-blue) ![tools](https://img.shields.io/badge/idea-intellij_IDEA%20%7C%20AndroidStudio-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue) ![version](https://img.shields.io/badge/version-v1.3.4-blue)
 
 ## 说明
 - 插件安装：插件已上传官方Plugins仓库，可搜索 `iFlutter` 下载
@@ -20,29 +20,35 @@ iFlutter is an IDEA Plugin for Developer of Flutter
   - 8、依赖快速定位
 
 ## 版本更新
+### v1.3.4
+ - 新增无用资源检查 [wiki](https://iflutter.toolu.cn/content/chapter-1/part-7.html)
+
 ### v1.3.3
-- 修复json转dart类名不规范问题
+ - 修复json转dart类名不规范问题
+
+### v1.3.3
+  - 修复json转dart类名不规范问题
 
 ### v1.3.2
-- 版本检查更新支持快速修复 [wiki](https://iflutter.toolu.cn/content/chapter-5/part-1.html)
+  - 版本检查更新支持快速修复 [wiki](https://iflutter.toolu.cn/content/chapter-5/part-1.html)
 
 ### v1.3.1
-- 修复资源替换res文件丢失问题
+  - 修复资源替换res文件丢失问题
 
 ### v1.3.0
-- 支持以目录的形式注册资源
+  - 支持以目录的形式注册资源 [wiki](https://iflutter.toolu.cn/content/chapter-1/part-2.html)
 
 ### v1.2.3
-- 新增依赖定位
+  - 新增依赖定位 [wiki](https://iflutter.toolu.cn/content/chapter-8/part-1.html)
 
 ### v1.2.2
-- 优化 `iFlutter` 功能分区
-- 新增Pub快捷搜索
+  - 优化 `iFlutter` 功能分区
+  - 新增Pub快捷搜索 [wiki](https://iflutter.toolu.cn/content/chapter-7/part-1.html)
 
 ### v1.2.1
-- 优化资源注册逻辑
-- 新增字体文件注册逻辑
-- 修复重复文件弹窗无法滚动问题
+  - 优化资源注册逻辑
+  - 新增字体文件注册逻辑 [wiki](https://iflutter.toolu.cn/content/chapter-1/part-3.html)
+  - 修复重复文件弹窗无法滚动问题
 
 ## QQ群
 

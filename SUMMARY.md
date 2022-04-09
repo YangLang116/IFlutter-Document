@@ -7,6 +7,7 @@
     * [资源重置](content/chapter-1/part-4.md)
     * [检查重复资源](content/chapter-1/part-5.md)
     * [归纳资源](content/chapter-1/part-6.md)
+    * [无用资源检查](content/chapter-1/part-7.md)
 
 
 * [2、依赖树生成](content/chapter-2/part-1.md)
