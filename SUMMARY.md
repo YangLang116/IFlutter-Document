@@ -26,3 +26,5 @@
 * [7、Pub快捷搜索](content/chapter-7/part-1.md)
 
 * [8、依赖快速定位](content/chapter-8/part-1.md)
+
+* [9、支持国际化](content/chapter-9/part-1.md)
