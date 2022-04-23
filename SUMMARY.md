@@ -8,6 +8,7 @@
     * [检查重复资源](content/chapter-1/part-5.md)
     * [归纳资源](content/chapter-1/part-6.md)
     * [无用资源检查](content/chapter-1/part-7.md)
+    * [图片资源监控](content/chapter-1/part-8.md)
 
 
 * [2、依赖树生成](content/chapter-2/part-1.md)
