@@ -4,7 +4,7 @@
 
 考虑到不同项目对资源把控的严格程度不一致，`iFlutter` 将相关参数以配置的形式提供出来，如下：
 
-![大图引入配置](https://iflutter.toolu.cn/configs/check_pic_conf.png)
+![大图引入配置](https://iflutter.toolu.cn/configs/check_pic_config.png)
 
 约束条件 | 默认值
 :--: | :--:
