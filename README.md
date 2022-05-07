@@ -43,11 +43,14 @@ iFlutter is an IDEA Plugin for Developer of Flutter
  - 支持国际化 [wiki](https://iflutter.toolu.cn/content/chapter-9/part-1.html)
  - 修复i_font_res.dart的Git问题
 
-## QQ群
+## 交流群
 
- <img src="https://iflutter.toolu.cn/configs/qq.jpg" width="150"  alt="QQ"/>
+ <img src="https://iflutter.toolu.cn/configs/qq.jpg" width="120"  alt="QQ"/>
 
 ## 其他
 建议直接使用 [Intellij IDEA](https://www.jetbrains.com/idea/) 代替 `AndroidStudio` 开发Flutter项目：  
 1、`iFlutter` 在 `Intellij IDEA` 也适用;  
 2、`Intellij IDEA` 支持更多的[快捷功能](https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b);
+
+## 赞赏(感谢支持)
+<img src="https://iflutter.toolu.cn/configs/wx_pay.jpg" width="120"  alt="QQ"/>
