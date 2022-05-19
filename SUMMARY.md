@@ -29,3 +29,5 @@
 * [8、依赖快速定位](content/chapter-8/part-1.md)
 
 * [9、支持国际化](content/chapter-9/part-1.md)
+
+* [MediaFilePreviewer插件](content/chapter-10/part-1.md)
