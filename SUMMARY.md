@@ -31,3 +31,5 @@
 * [9、支持国际化](content/chapter-9/part-1.md)
 
 * [MediaFilePreviewer插件](content/chapter-10/part-1.md)
+
+* [Game Center插件](content/chapter-11/part-1.md)
